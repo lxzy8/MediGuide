@@ -1,0 +1,17 @@
+{
+  "model": "Qwen/Qwen2.5-1.5B-Instruct + Prompt Tuning",
+  "seed": 8,
+  "num_virtual_tokens": 20,
+  "n_test_examples": 333,
+  "rouge1": 0.19726517274955443,
+  "rouge2": 0.024403916914719707,
+  "rougeL": 0.10358096125586391,
+  "bleu": 0.805271422978171,
+  "perplexity_corpus": 18.429459642570016,
+  "avg_generation_seconds_per_example": 1.2857229910097323,
+  "max_new_tokens": 256,
+  "total_wall_clock_generation_seconds": 428.4588408470154,
+  "adapter_size_mb": 0.11730194091796875,
+  "peak_training_gpu_mem_gb": 4.893651485443115,
+  "training_wall_clock_seconds": 2572.29479432106
+}

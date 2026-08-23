@@ -1,0 +1,13 @@
+{
+  "model": "Qwen/Qwen2.5-1.5B-Instruct",
+  "seed": 8,
+  "n_test_examples": 333,
+  "rouge1": 0.2104450494477293,
+  "rouge2": 0.021709640507315338,
+  "rougeL": 0.0994553160530402,
+  "bleu": 0.43476155083587353,
+  "perplexity_corpus": 27.22787569835266,
+  "avg_generation_seconds_per_example": 1.2273695998721652,
+  "max_new_tokens": 256,
+  "total_wall_clock_generation_seconds": 409.0271637439728
+}

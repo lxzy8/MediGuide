@@ -1,0 +1,12 @@
+transformers>=4.46
+peft>=0.13
+accelerate>=1.0
+bitsandbytes>=0.44
+evaluate>=0.4
+rouge_score>=0.1.2
+sacrebleu>=2.4
+sentencepiece>=0.2
+pandas>=2.0
+numpy>=1.26
+matplotlib>=3.8
+torch>=2.4

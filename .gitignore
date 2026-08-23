@@ -1,0 +1,25 @@
+# Model weights / checkpoints — too large for git, push to HF Hub instead if needed
+*.safetensors
+*.bin
+*.pt
+*.pth
+*_checkpoints/
+*_adapter/
+lora_checkpoints/
+qlora_checkpoints/
+prompt_tuning_checkpoints/
+
+# Raw dataset — link to the Kaggle source in README instead of committing data
+data/
+*.json.gz
+
+# Jupyter / Python cruft
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS / editor cruft
+.DS_Store
+.vscode/

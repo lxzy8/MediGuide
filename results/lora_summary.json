@@ -1,0 +1,14 @@
+{
+  "model": "Qwen/Qwen2.5-1.5B-Instruct + LoRA",
+  "seed": 8,
+  "n_test_examples": 333,
+  "rouge1": 0.20979130910927724,
+  "rouge2": 0.03598466973519318,
+  "rougeL": 0.11875676018216334,
+  "bleu": 1.812330611149905,
+  "perplexity_corpus": 14.495834952575485,
+  "avg_generation_seconds_per_example": 2.340471888447667,
+  "max_new_tokens": 256,
+  "total_wall_clock_generation_seconds": 779.7010352611542,
+  "adapter_size_mb": 70.48712921142578
+}

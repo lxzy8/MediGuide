@@ -1,0 +1,17 @@
+{
+  "model": "Qwen/Qwen2.5-1.5B-Instruct + QLoRA (NF4)",
+  "seed": 8,
+  "n_test_examples": 333,
+  "rouge1": 0.22414812680429363,
+  "rouge2": 0.04441436471269787,
+  "rougeL": 0.1318988115604114,
+  "bleu": 2.39893495751276,
+  "perplexity_corpus": 14.648583202699433,
+  "avg_generation_seconds_per_example": 3.1647129409664028,
+  "max_new_tokens": 256,
+  "total_wall_clock_generation_seconds": 1054.1463227272034,
+  "adapter_size_mb": 70.48712921142578,
+  "base_model_gpu_mem_gb_4bit": 1.0648717880249023,
+  "peak_training_gpu_mem_gb": 6.328063011169434,
+  "training_wall_clock_seconds": 4467.733706474304
+}
