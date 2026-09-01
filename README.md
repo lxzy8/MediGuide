@@ -25,6 +25,11 @@ dataset, same seed, same evaluation pipeline, all trained and evaluated on a sin
 - [Known Gotchas We Hit](#known-gotchas-we-hit-so-you-dont-have-to)
 
 ---
+## 🚀 Live Demo
+
+[#-live-demo](#-live-demo)
+
+Try MediGuide (QLoRA variant) directly: **[huggingface.co/spaces/rolmaxx/MediGuide-QLoRA](https://huggingface.co/spaces/rolmaxx/MediGuide-QLoRA)**
 
 ## Problem Statement
 
